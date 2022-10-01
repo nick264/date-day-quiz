@@ -1,3 +1,5 @@
+require 'date'
+
 dates = (Date.new(1600,1,1)..Date.today).to_a.sample(20)
 
 puts dates.map{ |x| x.strftime("%-m/%-d/%Y") }
