@@ -1,0 +1,1 @@
+Silly app to practice one's ability to determine the day of the week from a date
